@@ -1,0 +1,6 @@
+
+«%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8øÈ‘î›.
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(üñâ¾ûÿÿÿÿ8Çã“î›.
+Jsquid:S1481",Remove this unused "handler" local variable.(±ï¯è8º˜þí›.
+nsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(þæýóùÿÿÿÿ8º˜þí›.
+Ysquid:S1854";Remove this useless assignment to local variable "handler".(±ï¯è8º˜þí›.
